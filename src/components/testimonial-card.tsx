@@ -11,7 +11,9 @@ export const TestimonialCard = () => {
             />
           </figure>
           <div>
-            <h1 className="font-semibold text-neutral-900">Sarah Dole</h1>
+            <h1 className="font-semibold text-neutral-900 text-lg">
+              Sarah Dole
+            </h1>
             <p className="text-neutral-600 text-sm">@sarahdole</p>
           </div>
         </div>
